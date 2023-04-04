@@ -1,4 +1,3 @@
-### Hi there 👋
 # 💫 About Me:
 Developer based in Brazil<br>Currently building stuff at HCL.
 
